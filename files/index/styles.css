@@ -1,10 +1,9 @@
 ﻿body {
   margin:0px;
-  background-color:rgba(255, 255, 204, 1);
   background-image:none;
   position:static;
   left:auto;
-  width:489px;
+  width:10px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,111 +11,4 @@
 #base {
   position:absolute;
   z-index:0;
-}
-#u0_img {
-  border-width:0px;
-  position:absolute;
-  left:-3px;
-  top:-3px;
-  width:310px;
-  height:180px;
-}
-#u0 {
-  border-width:0px;
-  position:absolute;
-  left:189px;
-  top:168px;
-  width:300px;
-  height:170px;
-}
-#u0_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u1_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:193px;
-  height:55px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:48px;
-  color:#FF9999;
-}
-#u1 {
-  border-width:0px;
-  position:absolute;
-  left:243px;
-  top:203px;
-  width:193px;
-  height:55px;
-  font-size:48px;
-  color:#FF9999;
-}
-#u1_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:193px;
-  white-space:nowrap;
-  text-shadow:1px 1px 5px rgba(255, 153, 51, 0.647058823529412);
-  -webkit-text-shadow:1px 1px 5px rgba(255, 153, 51, 0.647058823529412);
-  -moz-text-shadow:1px 1px 5px rgba(255, 153, 51, 0.647058823529412);
-}
-#u2_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:141px;
-  height:24px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:20px;
-  color:#FF9999;
-}
-#u2 {
-  border-width:0px;
-  position:absolute;
-  left:261px;
-  top:281px;
-  width:141px;
-  height:24px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:20px;
-  color:#FF9999;
-}
-#u2_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:141px;
-  white-space:nowrap;
-  text-shadow:1px 1px 2px rgba(102, 204, 204, 0.647058823529412);
-  -webkit-text-shadow:1px 1px 2px rgba(102, 204, 204, 0.647058823529412);
-  -moz-text-shadow:1px 1px 2px rgba(102, 204, 204, 0.647058823529412);
 }
