@@ -4,7 +4,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:502px;
+  width:652px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -16,16 +16,16 @@
 #u0_img {
   border-width:0px;
   position:absolute;
-  left:-3px;
-  top:-3px;
-  width:310px;
-  height:180px;
+  left:-6px;
+  top:-4px;
+  width:312px;
+  height:182px;
 }
 #u0 {
   border-width:0px;
   position:absolute;
-  left:202px;
-  top:163px;
+  left:352px;
+  top:174px;
   width:300px;
   height:170px;
 }
@@ -58,8 +58,8 @@
 #u1 {
   border-width:0px;
   position:absolute;
-  left:256px;
-  top:198px;
+  left:406px;
+  top:209px;
   width:193px;
   height:55px;
   font-size:48px;
@@ -99,8 +99,8 @@
 #u2 {
   border-width:0px;
   position:absolute;
-  left:282px;
-  top:263px;
+  left:432px;
+  top:274px;
   width:141px;
   height:24px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
